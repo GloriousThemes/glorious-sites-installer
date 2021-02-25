@@ -28,6 +28,7 @@ Youtube Video will be here once the plugin is live on WordPress Repo
 
 You can contribute to the source code in our [GitHub](https://github.com/gloriousthemes/glorious-sites-installer/) page.
 
+
 == Installation ==
 
 1. Install the plugin either via the WordPress.org plugin directory, or by uploading the files to your server (in the /wp-content/plugins/ directory).
