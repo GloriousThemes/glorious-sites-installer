@@ -1,0 +1,88 @@
+{
+    "name": "Ayush",
+    "slug": "ayush",
+    "version": "1.0.0",
+    "homepage": "https://gloriousthemes.com/wordpress-themes/ayush/?utm_source=demo-import-screen&utm_medium=buy-now-link&utm_campaign=ayush-pricing",
+    "categories": {
+      "all"        : "All",
+      "blog"       : "Blog",
+      "business"   : "Business",
+      "ecommerce"  : "eCommerce",
+      "non-profit" : "Non Profit",
+      "one-page"   : "One Page",
+      "portfolio"  : "Portfolio",
+      "others"     : "Others"
+    },
+    "pagebuilders":
+    {
+      "all": "All",
+      "elementor": "Elementor"
+    },
+    "demos": {
+      "ayush-pro": {
+        "title": "Pro",
+        "preview": "https://demo.gloriousthemes.com/ayush-pro/",
+        "description": "WordPress Template Site for All Kind of Creative Websites like Agency, Company, Organizations, Portfolio",
+        "template": [
+          "ayush"
+        ],
+        "category": [
+          "all",
+          "blog",
+          "business",
+          "ecommerce"
+        ],
+        "pagebuilder": [
+          "all",
+          "elementor"
+        ],
+        "plugins_list": {
+          "glorious-services-support": {
+            "name": "Glorious Support & Service",
+            "slug": "glorious-services-support/glorious-services-support.php"
+          },
+          "elementor": {
+            "name": "Elementor",
+            "slug": "elementor/elementor.php"
+          }
+        },
+        "core_options": {
+          "blogname": "Ayush Pro",
+          "page_on_front": "Home",
+          "page_for_posts": "Blog"
+        },
+        "elementor_schemes": {
+          "color": [
+            "#111111",
+            "#23AB70",
+            "#111111",
+            "#006D3E"
+          ],
+          "typography": {
+            "primary": {
+              "font_family": "Lora",
+              "font_weight": "900"
+            },
+            "secondary": {
+              "font_family": "Lora",
+              "font_weight": "400"
+            },
+            "body": {
+              "font_family": "Raleway",
+              "font_weight": "400"
+            },
+            "accent": {
+              "font_family": "Roboto",
+              "font_weight": "500"
+            }
+          }
+        },
+        "customizer_data_update": {
+          "nav_menu_locations": {
+            "menu-primary": "Main"
+          }
+        }
+      }
+    }
+  }
+  

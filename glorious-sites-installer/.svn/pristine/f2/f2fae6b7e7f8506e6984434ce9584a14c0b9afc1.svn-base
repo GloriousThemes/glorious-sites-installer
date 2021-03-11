@@ -1,0 +1,108 @@
+# pack-refs with: peeled fully-peeled sorted 
+f337e7346d3fcf30971bdc082b2d161f4be1a48a refs/remotes/origin/develop
+268e9792b45b07b2838c06be5a52129ded1b799b refs/remotes/origin/feature/affiliation-submenu
+7659419c68972452f2de69a1729dfa892e75aecd refs/remotes/origin/feature/affiliation-submenu-v2
+71bd23e3c17fcf6d41fa396f0fa43cc9b677b61f refs/remotes/origin/feature/beta-mode
+706e1702beb0092f9c6f68948678ac95a982081e refs/remotes/origin/feature/beta-mode-enhancements
+3cfea5e9c15f09c0e4b231fd28e6c583588be11c refs/remotes/origin/feature/bundle-license-activation-enhancements
+074e55a478e7e9a6a1ce5bfcdc979c2667d6361e refs/remotes/origin/feature/curl-tester
+ca7ba972f3f51124a974dfade6fd770970d9afa8 refs/remotes/origin/feature/developer-license
+11544dce3e97a1d961d9a6cd0ed5b0609e406578 refs/remotes/origin/feature/disable-updates-checking-for-serviceware
+6cedbff709314b05cb698a376d3fe48339e67e9e refs/remotes/origin/feature/enrich-showing-annual-prices
+49f9506d0b52522ba7dd3f0d55f767ac95c57fd0 refs/remotes/origin/feature/fix-cta-url-plugin-info-dialog
+0573a3e877b849c10d05ea135fce1a821c1ad9d5 refs/remotes/origin/feature/fs-theme-mode-v7
+dacc3ae131a18534182ad91cac2cef7e7842bcfb refs/remotes/origin/feature/function-definition-fixes
+35c712893c95ab853724a35fab05a92a79f4bad8 refs/remotes/origin/feature/highlight-package-of-single-plan
+7c296671542ae500c12c6304c7ae7bd1af3febc2 refs/remotes/origin/feature/latest-premium-version-dialog-box
+d6c5feecd311ac2fbb0bbe9143e3713d8f62b8be refs/remotes/origin/feature/license-key-and-email-activation
+f66d7b985138385e0ac9f09394f588d6ca021c66 refs/remotes/origin/feature/license-sync-updates
+1977f2cbb29a5f15cc37fa2f2742b3865d3c2e25 refs/remotes/origin/feature/ms-network-admin-detection-fix
+7c5c9058cc98e5d28ba987eb17cdfc58992790da refs/remotes/origin/feature/network-migration-enhancements
+74af572f18c0823f3ec87bb7f8076b77fd1c46e8 refs/remotes/origin/feature/network-plugin-version-updates
+e485017852a96ab97d62b75e7bf5446795ef838f refs/remotes/origin/feature/ninja-forms
+6977f665c28e2a22ebc4c7669bbab80598696641 refs/remotes/origin/feature/opt-in-eu
+657403c683fa495d2d46b2e3c35d8681376ce392 refs/remotes/origin/feature/optin-enhancements
+a3eda6525db577bfb315382dc9fe1a92c05d9fc2 refs/remotes/origin/feature/optin-fixes
+45f2798d82c85bb09f40d41e112f72341fb4f4db refs/remotes/origin/feature/options-network-migration
+b24de5869a4b787d273e21f4e0d89f5b3ae0efa7 refs/remotes/origin/feature/premium-theme-details-dialog
+cd32d649284e167902e19759249e3a173a5a132d refs/remotes/origin/feature/purchase-details-admin-notice
+26334c4a0147618261c0eec88f155773bb9ee8c8 refs/remotes/origin/feature/redirection-fixes
+f83fdadc80ea5cc39b347e1f4a052d9cec65ad05 refs/remotes/origin/feature/secure-redirects-process-for-license-activation
+b984f66b9253a32782a843fddf0a857aa4832ea2 refs/remotes/origin/feature/store-install-ip
+2f744156ed9833d3409a6021ce5cb5481025973f refs/remotes/origin/feature/theme-fixes
+783c70a3a4d74610e8e1098dc7da6a28aadfe3ee refs/remotes/origin/feature/theme-fixes2
+4d855c77446b8c6c2b77aa0e26e08580d0ff8a3e refs/remotes/origin/feature/tracking-multisite-network
+f2a4700b68ab80416651f20279c329f9926011fa refs/remotes/origin/feature/user-localhost-site
+559c40b3eb567edc7e742a088fc887e79fd9f6e7 refs/remotes/origin/feature/user-recovery
+737afbabde2004d3c86c0efef1b95a0119f37a46 refs/remotes/origin/feature/whitelabel-mode-filter
+84a9be4717effd7697a217e0d931f48ae0d2ecc6 refs/remotes/origin/master
+9c0b7fa4f04b6586db8b3a28bde4732e8ac193a5 refs/remotes/origin/pr/24
+a37ad944409e6b26129b35f1e768059f9ab0aa53 refs/tags/1.0.4
+^85d180dec628e8e22ff28edd9b024bc5f3445a8e
+58eaf72d76ccb820cecfd32ebe0e357c6ddf5bee refs/tags/1.0.5
+^9c61e54d23f96c9e59743e8c0286a8bee8f91986
+6c2dcbb59166605eaa7a69009111e543ce0509ca refs/tags/1.0.6
+^a3c0274969770e2b228f5bc6921803e90b9ae823
+50a614ecb7c7ac8a1cd6a9dd4550e75ffbfc4911 refs/tags/1.0.61
+^ad4dfc43d2df346ba10602fcb972de6062a5da01
+00dcfbb356178ab1200408aa8d61c67084a02d43 refs/tags/1.0.7
+^93d0820cf8316b0191df9b42165cd5ebed79240f
+359026474f37fbe601018b3e54f62a8128164652 refs/tags/1.0.8
+^1cdd17ef123379b706b3a2a8858ae8d9fd7c34d3
+eaf2cbcae4aa22d81bd10245c9d12ce8e70e1ccb refs/tags/1.0.9
+^d1f84a657a44ff5bf94313cd10eeaf8c6cb3ec33
+22da09ae2f94603dde1be74d7eae566087520385 refs/tags/1.1.0
+^45cf03e8e7db26b7a992014a1075c712278aa5ac
+0f219f60e646486b83e1102a2a3cc1d8c52a24cb refs/tags/1.1.1
+^fa90ddec7381addd4c4982108ea4964a89859fa7
+2081134e07078c5ba8bfc6b0d2c4c41bed07ddae refs/tags/1.1.2
+^9ae427ce03e0f061153944a8e1003b284534e618
+6e193666c1d43dcea2b137938880e2ba469d43b9 refs/tags/1.1.3
+^666d1d244514c66455cdbd68bc67b54f056752ea
+861f4a9cfb3aca18f599ac6a55991c8369340977 refs/tags/1.1.4
+^25a6e2de53fe9437f8c27c391d2ae6e1d03c98c6
+eb81f3925fc2686682e4da129b482a247af86ce8 refs/tags/1.1.5
+^0461eb223d29836f8da33e51a322244c62d3af93
+75587b6283d67e006335649730096d6c7aedbf88 refs/tags/1.1.6
+^780e7cdeccbbc183fc860c39c93971d44e280d13
+34e2dfba993cb6bac5e2a82ff3e9ed7d7a15ea4e refs/tags/1.1.6.5
+^894776fa583113bb5029713d3a9bdb7ff4bf79a7
+12d4ad2d0eeb03690c6457dbb4c8ebf86e48859e refs/tags/1.1.7.3
+^e83ee0aa56249b95c652923fa77ed36f72297113
+e4698eb19c4b009a8a3d65bd9f1c9ff1aaae65a0 refs/tags/1.1.7.4
+^b77dc8ca671c8d28b9d368a9b15e532448557a05
+32db57f442948c128cac3ccdc0939e7045549525 refs/tags/1.1.7.5
+^399d52edbd8cb5f706a1308b1809d670ccf712ed
+d1ef37ed304397713042f0cad4e9fc8baf9e26bb refs/tags/1.1.8
+dd0a3fbb33bdf765679c8a1c4fefdd3a4862313e refs/tags/1.1.8.1
+97bd4dd73a3a46853a7cb417de752fd3a396248a refs/tags/1.1.9
+742cc187c7df6d443fd028bac1278097f3d2a25b refs/tags/1.2.0
+647ed777b502fd38af28a2612acf15b0936c9756 refs/tags/1.2.1
+0c132a52b69dd6bc160112d2cf7399702d95599b refs/tags/1.2.1.5
+a3f3af732acbd4fe0f040e911b6cf190e0d3d4cb refs/tags/1.2.1.6
+f147e03f09d9ca829616afa2b285901eebbe23bf refs/tags/1.2.1.6.1
+aaa7bab17a3dc095ab6e58dad8bbce3a2fa04d9c refs/tags/1.2.1.7.1
+8463dc2b01ab671377a41535c8cd91ea3ffa4bcf refs/tags/1.2.2.8
+1992b7ffd07d5a6c169a4fa587aa335a6ef78021 refs/tags/1.2.2.9
+5b420d7c7e4eb3fe164a6ccd4956c8b591753550 refs/tags/1.2.3
+6864f0a4cf8a1969b8d2541f6d3f869afebde84c refs/tags/1.2.4
+12d4ad2d0eeb03690c6457dbb4c8ebf86e48859e refs/tags/1.7.3
+^e83ee0aa56249b95c652923fa77ed36f72297113
+e4698eb19c4b009a8a3d65bd9f1c9ff1aaae65a0 refs/tags/1.7.4
+^b77dc8ca671c8d28b9d368a9b15e532448557a05
+7059f9ee49af4258b34d68adfbaf0df8da507e70 refs/tags/2.0.1
+937d96a0e958b16f21dce2ae3f14a0d0839cdccc refs/tags/2.1.0
+292ddda8be5ef2d36c54fbef1302c02aece7543f refs/tags/2.1.1
+c189ba899aa1c116066a5bcf06a9481d0607dfa1 refs/tags/2.1.2
+c45ab9e6e3893946f6fa8804298c53a50c8c44fd refs/tags/2.1.3
+553553dd948bffd0cc8fa2c22d90c99406ec0090 refs/tags/2.2.1
+4dab832d8e91691e47389b9cb392fce9a7c652c8 refs/tags/2.2.2
+34dfa26505800c9404c3969ef84969f4606da76a refs/tags/2.2.3
+df235128a9e9e2f4b8700c47ce5d55c5b57541f6 refs/tags/2.2.4
+^a4cc02a705639bcc64b5b55b8732432986b1b228
+5beaaab059370ac646356107ba01de256d5e93a9 refs/tags/2.3.0
+d033b766e42e7f321908b56768245ea0957f75c8 refs/tags/2.3.1
+180042ee5653e073dd4a98aa0aae1b9adc9c351c refs/tags/2.3.2
+1c7e0bc209d32235c0e9ac2f23e52bb83564acbc refs/tags/2.4.0
+4f60bf8a5d0635954fb911ffd52a21bc06aa7561 refs/tags/2.4.1
+84a9be4717effd7697a217e0d931f48ae0d2ecc6 refs/tags/2.4.2
